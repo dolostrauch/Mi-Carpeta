@@ -4,7 +4,6 @@
     display: flex;
     float: none;
     margin: 10;
-    float: right;
 }
 
 /*a {
@@ -33,7 +32,6 @@
 .navbar-toggler {
     /*creo que no es necesario*/
     display: flex;
-
 }
 
 h1 {
@@ -211,9 +209,6 @@ footer {
     max-width: 100%;
 }
 
-
-
-
 /*Grillas*/
 
 .grid-container {
@@ -384,5 +379,6 @@ footer {
 
 .titulos {
 display: flex;
+flex-wrap: wrap;
 justify-content: left;
 }
