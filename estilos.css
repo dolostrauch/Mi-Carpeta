@@ -370,3 +370,18 @@ footer {
 .submit1 {
     padding-top: 5vh;
 }
+
+.formulariodesuscripcion {
+    background-color: #c8bc9f;
+    margin: 10rem;
+    padding-bottom: 2rem;
+    padding-top: 0.1rem;
+    padding-right: 5rem;
+    border-radius: 1rem;
+    border: 1vh solid #b8aa89;
+}
+
+.titulos {
+display: flex;
+justify-content: left;
+}
